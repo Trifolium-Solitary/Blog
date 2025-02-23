@@ -96,21 +96,9 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-<<<<<<< HEAD
-theme: butterfly
-
-=======
 theme: landscape
->>>>>>> 4aee161e8e98a267c67fa20056d0954083251d4a
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-<<<<<<< HEAD
-  repository: git@github.com:Trifolium-Solitary/trifoliumsolitary.git
-  branch: main
-=======
-  repository: git@github.com:Trifolium-Solitary/trifolium.github.io.git
-  branch: master
->>>>>>> 4aee161e8e98a267c67fa20056d0954083251d4a
+  type: " "
